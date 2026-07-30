@@ -1,4 +1,4 @@
-name: Build Hey Claude APK
+name: .github/workflows/build.yml
 
 # Single-file bootstrap. Create this one file in a new GitHub repo at
 #   .github/workflows/build.yml
